@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd1b65e9-28db-47e1-839a-2f0f8d61211a" name="Changes" comment="">
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/kmeans_for_anchors.py" beforeDir="false" afterPath="$PROJECT_DIR$/kmeans_for_anchors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model_data/yolo_anchors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model_data/yolo_anchors.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
